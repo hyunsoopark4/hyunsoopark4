@@ -23,11 +23,11 @@
 ---
 
 ### Competiton
-* (2017) 제2회 경기판타지아 로봇 경진대회 천하장사 로봇씨름 장려상 (4th)
+* (2017) 제2회 경기판타지아 로봇 경진대회 천하장사 로봇씨름 **장려상** (4th)
 * (2017) 국제로봇올림피아드 한국대회 수도권 예선
     > 로봇개더링  
     > 미션형 창작
-* [(2018) 국제로봇올림피아드 한국대회 본선 미션형 창작 중등부 대상 (1st)](https://www.youtube.com/watch?v=mhB1UDhXNVU "유튜브")
+* [(2018) 국제로봇올림피아드 한국대회 본선 미션형 창작 중등부 **대상** (1st)](https://www.youtube.com/watch?v=mhB1UDhXNVU "유튜브")
 
 * (2018) 20th International Robot Olympiad Philippines
 
