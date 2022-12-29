@@ -45,7 +45,7 @@
 
 * (2019) AI Jonior World Cup 고등부 (1st) 
 
-* (2020) 제 22회 국제로봇올림피아드 한국대회 본선 AI축구 동상 (3rd)
+*  [(2020) 제 22회 국제로봇올림피아드 한국대회 본선 AI축구 동상 (3rd)](https://www.youtube.com/watch?v=AZJf6COEpA8 "유튜브")
 
 * (2020) 국제로봇콘테스트 (1st)
     > AI SOCCER 고등부 개인전 금상(산업통상자원부장관)    
