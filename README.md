@@ -1,5 +1,5 @@
-# 안녕하세요! 초보 풀스택개발자 박현수입니다! :baby_chick:
-> Hello! I'm Park Hyunsoo, a beginner full stack developer! :baby_chick:
+# 안녕하세요! 초보 풀스택개발자 박현수입니다! :hatched_chick:
+> Hello! I'm Park Hyunsoo, a beginner full stack developer! :hatched_chick:
 
 ---
 ### :school: School :school:
