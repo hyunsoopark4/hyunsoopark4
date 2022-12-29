@@ -51,7 +51,7 @@
     > AI SOCCER 고등부 개인전 금상(산업통상자원부장관)    
     > AI SOCCER 고등부 단체전 금상(국가기술표준원장상) 
 
-* (2020)인공지능 챔피언십 AI World Cup 일반부 우승(중소벤처기업부장관상) (1st)
+* [(2020)인공지능 챔피언십 AI World Cup 일반부 우승(중소벤처기업부장관상) (1st)](https://www.youtube.com/watch?v=R0cy-4vyFLk "유튜브")
 
 * [(2020) International Robot Olympiad AI SOCCER_Challenge GOLD (1st)](https://www.youtube.com/watch?v=iFAYV2oEW_0 "유튜브")
 
