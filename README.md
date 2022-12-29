@@ -70,10 +70,10 @@
 ---
 
 ### How to contact?
-* [Email](hyunsopoark4@naver.com "네이버")
+* [Email](mailto:hyunsoopark4@naver.com)
 * [Instagram DM](https://www.instagram.com/imtalkingpotatoo/ "인스타")
 
----
+
 
 <!--
 https://aboneu.tistory.com/485 <- 여기 참고하기
