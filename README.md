@@ -70,7 +70,7 @@
 ---
 
 ### :speech_balloon: How to contact? :speech_balloon:
-* Email : [Email](mailto:hyunsoopark4@naver.com)
+* [Email](mailto:hyunsoopark4@naver.com)
 * [Instagram DM](https://www.instagram.com/imtalkingpotatoo/ "인스타")
 
 
