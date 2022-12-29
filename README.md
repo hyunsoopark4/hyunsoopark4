@@ -53,7 +53,9 @@
 
 * (2020)인공지능 챔피언십 AI World Cup 일반부 우승(중소벤처기업부장관상) (1st)
 
-* (2020) International Robot Olympiad AI SOCCER_Challenge GOLD (1st)
+* [(2020) International Robot Olympiad AI SOCCER_Challenge GOLD (1st)](https://www.youtube.com/watch?v=iFAYV2oEW_0 "유튜브")
+
+
 
 * (2022) 숭실대학교 IT대학 소프트웨어학부 주최 2022년도 창의적 공학설계 전시회 대상 (1st)
 
