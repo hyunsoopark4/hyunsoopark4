@@ -32,32 +32,30 @@
 * (2018) 20th International Robot Olympiad Philippines
 
 * (2019) 국제로봇올림피아드 한국대회 수도권 예선 (2nd)
-    > [로봇개더링 고등부 은상](https://www.youtube.com/watch?v=fAz92CizTvY "유튜브")  
-    > 미션형창작 고등부 은상
+    > [로봇개더링 고등부 **은상**](https://www.youtube.com/watch?v=fAz92CizTvY "유튜브")  
+    > 미션형창작 고등부 **은상**
 
 * (2019) 국제로봇올림피아드 한국대회 본선 (1st, 5th)
-    > AI축구 고등부 대상    
-    > 타운워치 오버롤 고등부 장려상
+    > AI축구 고등부 **대상**    
+    > 타운워치 오버롤 고등부 **장려상**
 
-* (2019) 경기과학축전&제18회 안양사이버과학축제 미션프로그램라인트레이서 중고등부 최우수상 (2nd)
+* (2019) 경기과학축전&제18회 안양사이버과학축제 미션프로그램라인트레이서 중고등부 **최우수상** (2nd)
 
-* (2019) 경기과학축전&제16회 수원정보과학축전 3D프린팅해커톤대회 장려상 (5th)
+* (2019) 경기과학축전&제16회 수원정보과학축전 3D프린팅해커톤대회 **장려상** (5th)
 
 * (2019) AI Jonior World Cup 고등부 (1st) 
 
-*  [(2020) 제 22회 국제로봇올림피아드 한국대회 본선 AI축구 동상 (3rd)](https://www.youtube.com/watch?v=AZJf6COEpA8 "유튜브")
+*  [(2020) 제 22회 국제로봇올림피아드 한국대회 본선 AI축구 **동상** (3rd)](https://www.youtube.com/watch?v=AZJf6COEpA8 "유튜브")
 
 * (2020) 국제로봇콘테스트 (1st)
-    > AI SOCCER 고등부 개인전 금상(산업통상자원부장관)    
-    > AI SOCCER 고등부 단체전 금상(국가기술표준원장상) 
+    > AI SOCCER 고등부 개인전 **금상**(산업통상자원부장관)    
+    > AI SOCCER 고등부 단체전 **금상**(국가기술표준원장상) 
 
-* [(2020)인공지능 챔피언십 AI World Cup 일반부 우승(중소벤처기업부장관상) (1st)](https://www.youtube.com/watch?v=R0cy-4vyFLk "유튜브")
+* [(2020)인공지능 챔피언십 AI World Cup 일반부 **우승**(중소벤처기업부장관상) (1st)](https://www.youtube.com/watch?v=R0cy-4vyFLk "유튜브")
 
-* [(2020) International Robot Olympiad AI SOCCER_Challenge GOLD (1st)](https://www.youtube.com/watch?v=iFAYV2oEW_0 "유튜브")
+* [(2020) International Robot Olympiad AI SOCCER_Challenge **GOLD** (1st)](https://www.youtube.com/watch?v=iFAYV2oEW_0 "유튜브")
 
-
-
-* (2022) 숭실대학교 IT대학 소프트웨어학부 주최 2022년도 창의적 공학설계 전시회 대상 (1st)
+* (2022) 숭실대학교 IT대학 소프트웨어학부 주최 2022년도 창의적 공학설계 전시회 **대상** (1st)
 
 --- 
 
