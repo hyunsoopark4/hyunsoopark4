@@ -1,6 +1,8 @@
 # 안녕하세요! 초보 풀스택개발자 박현수입니다!  
 > Hello! I'm Park Hyunsoo, a beginner full stack developer!
 
+<span style = "color : red">red</span>
+
 ---
 ### School 
 * (2019 ~ 2022) 평촌경영고등학교 스마트 콘텐츠과
