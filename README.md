@@ -32,7 +32,7 @@
 * (2018) 20th International Robot Olympiad Philippines
 
 * (2019) 국제로봇올림피아드 한국대회 수도권 예선 (2nd)
-    > 로봇개더링 고등부 은상  
+    > [로봇개더링 고등부 은상](https://www.youtube.com/watch?v=fAz92CizTvY "유튜브")  
     > 미션형창작 고등부 은상
 
 * (2019) 국제로봇올림피아드 한국대회 본선 (1st, 5th)
