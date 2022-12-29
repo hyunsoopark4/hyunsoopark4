@@ -1,16 +1,18 @@
 # 안녕하세요! 초보 풀스택개발자 박현수입니다!  
 > Hello! I'm Park Hyunsoo, a beginner full stack developer!
 
+---
 ### School 
 * (2019 ~ 2022) 평촌경영고등학교 스마트 콘텐츠과
 * (2022 ~ ) 숭실대학교 소프트웨어학부 
-
+---
 ### Activity 
 * (2019 ~ 2020) 평촌경영고등학교 컴퓨터 동아리 PC-ZEN 
 * (2020 ~ 2022) 평촌경영고등학교 로봇 동아리 Rogic
 * (2022 ~ )숭실대학교 컴퓨터 동아리 SSCC
 * (2022 ~ ) 숭실대학교 발명 동아리 바람개비
 
+---
 
 ### Competiton
 * (2017) 제2회 경기판타지아 로봇 경진대회 천하장사 로봇씨름 장려상 (4th)
@@ -47,7 +49,7 @@
 
 * (2022) 숭실대학교 IT대학 소프트웨어학부 주최 2022년도 창의적 공학설계 전시회 대상 (1st)
 
-
+--- 
 
 <!--
 **hyunsoopark4/hyunsoopark4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
