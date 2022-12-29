@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Techs i've used least one <br/>
+<img alt = "Csharp"src
+= "https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+
 <!--
 **hyunsoopark4/hyunsoopark4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
