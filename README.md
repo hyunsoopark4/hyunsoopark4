@@ -43,7 +43,7 @@
 
 * (2019) 경기과학축전&제16회 수원정보과학축전 3D프린팅해커톤대회 **장려상** (5th)
 
-* (2019) AI Jonior World Cup 고등부 (1st) 
+* (2019) AI Jonior World Cup 고등부 **우승** (1st) 
 
 *  [(2020) 제 22회 국제로봇올림피아드 한국대회 본선 AI축구 **동상** (3rd)](https://www.youtube.com/watch?v=AZJf6COEpA8 "유튜브")
 
