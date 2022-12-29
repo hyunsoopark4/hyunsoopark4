@@ -1,4 +1,4 @@
-# 안녕하세요! 초보 풀스택개발자 박현수입니다!  
+# 안녕하세요! 초보 풀스택개발자 박현수입니다!
 # Hello! I'm Park Hyunsoo, a beginner full stack developer!
 
 <!--
