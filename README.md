@@ -62,11 +62,11 @@
 
 ### :wrench: Used Languages :wrench:
 * C
+* C++
 * Python
 * CSS
 * Java Script
 * Markdown
-* C++
 
 ---
 
