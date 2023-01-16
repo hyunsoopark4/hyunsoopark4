@@ -66,6 +66,7 @@
 * CSS
 * Java Script
 * Markdown
+* C++
 
 ---
 
