@@ -74,7 +74,7 @@
 * [Email](mailto:hyunsoopark4@naver.com)
 * [Instagram DM](https://www.instagram.com/imtalkingpotatoo/ "인스타")
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsoopark4)](https://solved.ac/hyunsoopark4/)
 
 <!--
 https://aboneu.tistory.com/485 <- 여기 참고하기
