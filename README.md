@@ -75,8 +75,8 @@
 ---
 
 ### :speech_balloon: How to contact? :speech_balloon:
-* [Email](mailto:hyunsoopark4@naver.com)
-* [Instagram DM](https://www.instagram.com/hyunsoopark03/ "인스타")
+* [Email] hyunsoopark4@naver.com
+
 
 <!--
 https://aboneu.tistory.com/485 <- 여기 참고하기
