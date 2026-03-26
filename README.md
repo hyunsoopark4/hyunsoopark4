@@ -26,7 +26,10 @@
 * (2025. 09) 차세대 반도체 경진대회 시스템/SW부문 <!-- 신발 정리 로봇 개선 -->
 * (2025. 09) 2025 숭실 발명아이디어 경진대회 <!-- 신발 정리 로봇 -->
 * (2025. 09) 제11회 GLOBAL PRO ROBOT CHAMPIONSHIP 2025 심판
+* (2025. 09 ~ 12) 숭실대학교 SSCC '로봇이 미래다' 스터디장. - Mecanum Wheel forklift
+* (2025. 09 ~ ) Pybrain 자율 연구원 - So-arm 101, ARC S6
 * (2025. 12) 제 27회 국제로봇올림피아드 세계대회 진행요원(호주)
+* (2025. 12 ~ 2026. 02) Mecanum wheel ACT forklift 연구(개인연구)
 ---
 
 ### :trophy: Competiton :trophy:
