@@ -31,6 +31,7 @@
 * (2025. 09 ~ ) Pybrain 자율 연구원 - So-arm 101, ARC S6
 * (2025. 12) 제 27회 국제로봇올림피아드 세계대회 진행요원(호주)
 * (2025. 12 ~ 2026. 02) Mecanum wheel ACT forklift 연구(개인연구)
+* (2026. 03) 숭실대학교 SSCC '로봇이 미래다' 스터디장. - So-arm 101
 ---
 
 ### :trophy: Competiton :trophy:
